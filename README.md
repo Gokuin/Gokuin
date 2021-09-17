@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gokuin
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... C
+- 🌱 I’m currently learning ... Data struct and algos 2 in Java
 - 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... message me on here
 
