@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... Data struct and algos 2 in Java
 - 💞️ I’m looking to collaborate on ... whatever
-- 📫 How to reach me ... message me on here
+- 📫 How to reach me ... email me at twg12@pitt.edu
 
 <!---
 Gokuin/Gokuin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
