@@ -1,6 +1,7 @@
+## About Me
 - 👋 Hi, I’m @Gokuin
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Data struct and algos 2 in Java
+- 🌱 I’m currently learning ... Intro to Operating Systems with C
 - 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... email me at twg12@pitt.edu
 
