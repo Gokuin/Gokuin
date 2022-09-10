@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @Gokuin
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Intro to Operating Systems with C
+- 🌱 I’m currently learning ... Intro to Data Science using Python and QA using various tools and languages
 - 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... email me at twg12@pitt.edu
 
