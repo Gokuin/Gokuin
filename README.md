@@ -5,6 +5,7 @@
 - Also currently dabbling in Rust on the side for a small API project I want to build...
 - 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... email me at twg12@pitt.edu
+- [Website]https://gokuin.github.io/
 
 <!---
 Gokuin/Gokuin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
