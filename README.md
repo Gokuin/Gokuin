@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hi, I’m @Gokuin
-- 👀 I’m interested in ... coding
+- 👀 I’m interested in ... Making my code work
 - 🌱 I’m currently learning ... Intro to Data Science using Python and QA using various tools and languages
 - 🦀 Also currently dabbling in Rust on the side for a small API project I want to build...
 - 💞️ I’m looking to collaborate on ... whatever
